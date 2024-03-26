@@ -1,0 +1,698 @@
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Zad5.exe
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Zad5.deps.json
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Zad5.runtimeconfig.json
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Zad5.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Zad5.pdb
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\obj\Debug\net8.0-windows\Zad5.csproj.AssemblyReference.cache
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\obj\Debug\net8.0-windows\VIews\LoginWindow.g.cs
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\obj\Debug\net8.0-windows\Zad5_MarkupCompile.cache
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\obj\Debug\net8.0-windows\Zad5_MarkupCompile.lref
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\obj\Debug\net8.0-windows\VIews\LoginWindow.baml
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\obj\Debug\net8.0-windows\Zad5.g.resources
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\obj\Debug\net8.0-windows\Zad5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\obj\Debug\net8.0-windows\Zad5.AssemblyInfoInputs.cache
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\obj\Debug\net8.0-windows\Zad5.AssemblyInfo.cs
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\obj\Debug\net8.0-windows\Zad5.csproj.CoreCompileInputs.cache
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\obj\Debug\net8.0-windows\Zad5.csproj.CopyComplete
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\obj\Debug\net8.0-windows\Zad5.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\obj\Debug\net8.0-windows\refint\Zad5.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\obj\Debug\net8.0-windows\Zad5.pdb
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\obj\Debug\net8.0-windows\Zad5.genruntimeconfig.cache
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\obj\Debug\net8.0-windows\ref\Zad5.dll
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\obj\Debug\net8.0-windows\Zad5_Content.g.cs
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\obj\Debug\net8.0-windows\App.baml
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\obj\Debug\net8.0-windows\VIews\ProductWindow.g.cs
+C:\Users\st310-08\Desktop\GrebenukovPR31\Practica\Zad5\obj\Debug\net8.0-windows\VIews\ProductWindow.baml
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Zad5.exe
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Zad5.deps.json
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Zad5.runtimeconfig.json
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Zad5.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Zad5.pdb
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Azure.Core.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Azure.Identity.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Humanizer.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\System.Memory.Data.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.csproj.AssemblyReference.cache
+H:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\VIews\LoginWindow.g.cs
+H:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\VIews\ProductWindow.g.cs
+H:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\App.g.cs
+H:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5_Content.g.cs
+H:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5_MarkupCompile.cache
+H:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5_MarkupCompile.lref
+H:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\App.baml
+H:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\VIews\LoginWindow.baml
+H:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\VIews\ProductWindow.baml
+H:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.g.resources
+H:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.GeneratedMSBuildEditorConfig.editorconfig
+H:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.AssemblyInfoInputs.cache
+H:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.AssemblyInfo.cs
+H:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.csproj.CoreCompileInputs.cache
+H:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.csproj.CopyComplete
+H:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.dll
+H:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\refint\Zad5.dll
+H:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.pdb
+H:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.genruntimeconfig.cache
+H:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\ref\Zad5.dll
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Images\B111C5.jpeg
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Images\defaultphoto.jpg
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Images\E112C6.jpg
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Images\K839K3.jpg
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Images\L293S9.jpg
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Images\M112C8.jpg
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Images\M294G9.jpg
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Images\M398S9.jpg
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Images\N283K3.jpg
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Images\S384K2.jpg
+H:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Images\T238C7.jpg
+H:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+H:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\VIews\AddProductWindow.g.cs
+H:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\VIews\AddProductWindow.baml
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Images\B111C5.jpeg
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Images\defaultphoto.jpg
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Images\E112C6.jpg
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Images\K839K3.jpg
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Images\L293S9.jpg
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Images\M112C8.jpg
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Images\M294G9.jpg
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Images\M398S9.jpg
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Images\N283K3.jpg
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Images\S384K2.jpg
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Images\T238C7.jpg
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Zad5.exe
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Zad5.deps.json
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Zad5.runtimeconfig.json
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Zad5.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Zad5.pdb
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Azure.Core.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Azure.Identity.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Humanizer.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\System.Memory.Data.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Uchebnya_Practica\Zad5\Zad5\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.csproj.AssemblyReference.cache
+D:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\VIews\AddProductWindow.g.cs
+D:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\VIews\LoginWindow.g.cs
+D:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\VIews\ProductWindow.g.cs
+D:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\App.g.cs
+D:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5_Content.g.cs
+D:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+D:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5_MarkupCompile.cache
+D:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5_MarkupCompile.lref
+D:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\App.baml
+D:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\VIews\AddProductWindow.baml
+D:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\VIews\LoginWindow.baml
+D:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\VIews\ProductWindow.baml
+D:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.g.resources
+D:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.AssemblyInfoInputs.cache
+D:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.AssemblyInfo.cs
+D:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.csproj.CoreCompileInputs.cache
+D:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.csproj.CopyComplete
+D:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.dll
+D:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\refint\Zad5.dll
+D:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.pdb
+D:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.genruntimeconfig.cache
+D:\Uchebnya_Practica\Zad5\Zad5\obj\Debug\net8.0-windows\ref\Zad5.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Images\B111C5.jpeg
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Images\defaultphoto.jpg
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Images\E112C6.jpg
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Images\K839K3.jpg
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Images\L293S9.jpg
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Images\M112C8.jpg
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Images\M294G9.jpg
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Images\M398S9.jpg
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Images\N283K3.jpg
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Images\S384K2.jpg
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Images\T238C7.jpg
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Zad5.exe
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Zad5.deps.json
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Zad5.runtimeconfig.json
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Zad5.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Zad5.pdb
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.csproj.AssemblyReference.cache
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\obj\Debug\net8.0-windows\VIews\AddProductWindow.g.cs
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\obj\Debug\net8.0-windows\VIews\LoginWindow.g.cs
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\obj\Debug\net8.0-windows\VIews\ProductWindow.g.cs
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5_Content.g.cs
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5_MarkupCompile.cache
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5_MarkupCompile.lref
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\obj\Debug\net8.0-windows\App.baml
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\obj\Debug\net8.0-windows\VIews\AddProductWindow.baml
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\obj\Debug\net8.0-windows\VIews\LoginWindow.baml
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\obj\Debug\net8.0-windows\VIews\ProductWindow.baml
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.g.resources
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.AssemblyInfoInputs.cache
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.AssemblyInfo.cs
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.csproj.CoreCompileInputs.cache
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.sourcelink.json
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.csproj.CopyComplete
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\obj\Debug\net8.0-windows\refint\Zad5.dll
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.pdb
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\obj\Debug\net8.0-windows\Zad5.genruntimeconfig.cache
+C:\Users\ivang\OneDrive\Рабочий стол\college_3_kurs\Zad5\Zad5\obj\Debug\net8.0-windows\ref\Zad5.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Images\B111C5.jpeg
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Images\defaultphoto.jpg
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Images\E112C6.jpg
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Images\K839K3.jpg
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Images\L293S9.jpg
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Images\M112C8.jpg
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Images\M294G9.jpg
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Images\M398S9.jpg
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Images\N283K3.jpg
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Images\S384K2.jpg
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Images\T238C7.jpg
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Zad5.exe
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Zad5.deps.json
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Zad5.runtimeconfig.json
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Zad5.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Zad5.pdb
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\obj\Debug\net8.0-windows\Zad5.csproj.AssemblyReference.cache
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\obj\Debug\net8.0-windows\VIews\AddProductWindow.g.cs
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\obj\Debug\net8.0-windows\VIews\LoginWindow.g.cs
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\obj\Debug\net8.0-windows\VIews\ProductWindow.g.cs
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\obj\Debug\net8.0-windows\Zad5_Content.g.cs
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\obj\Debug\net8.0-windows\Zad5_MarkupCompile.cache
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\obj\Debug\net8.0-windows\Zad5_MarkupCompile.lref
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\obj\Debug\net8.0-windows\App.baml
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\obj\Debug\net8.0-windows\VIews\AddProductWindow.baml
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\obj\Debug\net8.0-windows\VIews\LoginWindow.baml
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\obj\Debug\net8.0-windows\VIews\ProductWindow.baml
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\obj\Debug\net8.0-windows\Zad5.g.resources
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\obj\Debug\net8.0-windows\Zad5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\obj\Debug\net8.0-windows\Zad5.AssemblyInfoInputs.cache
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\obj\Debug\net8.0-windows\Zad5.AssemblyInfo.cs
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\obj\Debug\net8.0-windows\Zad5.csproj.CoreCompileInputs.cache
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\obj\Debug\net8.0-windows\Zad5.sourcelink.json
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\obj\Debug\net8.0-windows\Zad5.csproj.CopyComplete
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\obj\Debug\net8.0-windows\Zad5.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\obj\Debug\net8.0-windows\refint\Zad5.dll
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\obj\Debug\net8.0-windows\Zad5.pdb
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\obj\Debug\net8.0-windows\Zad5.genruntimeconfig.cache
+C:\Users\chiki\Source\Repos\ProductShopWPF\Zad5\obj\Debug\net8.0-windows\ref\Zad5.dll
